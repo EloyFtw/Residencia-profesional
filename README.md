@@ -1,1 +1,3 @@
-Aqui voy a cargar los archivos en phyton, la documentacion y los materiales de ayuda.
+Documentacion, programas y definición de materiales del proyecto **Reconocimiento y Seguimiento de Objetos en entorno controlado**
+
+
