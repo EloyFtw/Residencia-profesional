@@ -1,2 +1,0 @@
-# Referencias de información
-## 
